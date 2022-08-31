@@ -1,5 +1,22 @@
 /* add code here to make your image 300px square */
-
+#pet{
+    height:300px;
+    width:300px;
+}
 /* add code here to change the color and font family of your name/title */
+h1{
+    color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 /* Bonus: change the color of your list elements */
+li{
+    color:blueviolet;
+}
+.list2{
+    color:brown;
+
+}
+.list3{
+    color:yellowgreen;
+}
